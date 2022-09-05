@@ -1,0 +1,1 @@
+package com.shoppingapp.ui.response.model;
